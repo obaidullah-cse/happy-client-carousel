@@ -52,3 +52,6 @@ p{
 .owl-theme .owl-dots .owl-dot.active span, .owl-theme .owl-dots .owl-dot:hover span {
     background: #000;
 }
+.owl-dot:focus{
+    outline: none !important;
+}
